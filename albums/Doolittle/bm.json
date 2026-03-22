@@ -1,0 +1,429 @@
+{
+  "schema_version": "bm/1.0",
+  "album_artist": "Pixies",
+  "album_artists": [
+    "Pixies"
+  ],
+  "title": "Doolittle",
+  "year": "1989",
+  "release_date": "1989",
+  "genre": "alternative rock, indie rock, rock, grunge, noise rock, punk, pop",
+  "discs": 1,
+  "total_tracks": 15,
+  "stems_model": "htdemucs",
+  "stems_per_track": [
+    "drums",
+    "bass",
+    "vocals",
+    "other"
+  ],
+  "tracks": [
+    {
+      "disc_number": 1,
+      "track_number": 1,
+      "title": "Debaser",
+      "artist": "Pixies",
+      "duration_ms": 173173,
+      "format": "flac",
+      "sha256": "65cc9634232f1b475ab21531533304568f61a9154a472b0a92c316034aa73566",
+      "path": "Tracks/01 - Debaser/01. Debaser.flac",
+      "stems_path": "Tracks/01 - Debaser/BM",
+      "stems": {
+        "drums": "Tracks/01 - Debaser/BM/drums.wav",
+        "bass": "Tracks/01 - Debaser/BM/bass.wav",
+        "vocals": "Tracks/01 - Debaser/BM/vocals.wav",
+        "other": "Tracks/01 - Debaser/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "0b5466a4c8b6fd0bd67e7b07aaf79e66acfeaf0dfe6b9162c4730e1d3af81f32",
+        "bass": "4e70bb7b4614182fb491c4a2fdc45eb0e2e065fe26ec36b5985820b3aa2ef926",
+        "vocals": "bf8ca21790270d55d391e888cc9581d6afb8b43c7a52c6dba5c624f312d20c20",
+        "other": "464ee5ff7992a3c409bb32c164cbfaaf3840180df5f95293e0fe43ec27d7192d"
+      },
+      "lrc_path": "Tracks/01 - Debaser/01 - Debaser.lrc",
+      "_bpm": 136,
+      "_camelot": "F6",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 2,
+      "title": "Tame",
+      "artist": "Pixies",
+      "duration_ms": 115693,
+      "format": "flac",
+      "sha256": "06565ae08f7d216b678397ee343bd054d4828ee64debcb4ba98f90b8dc412847",
+      "path": "Tracks/02 - Tame/02. Tame.flac",
+      "stems_path": "Tracks/02 - Tame/BM",
+      "stems": {
+        "drums": "Tracks/02 - Tame/BM/drums.wav",
+        "bass": "Tracks/02 - Tame/BM/bass.wav",
+        "vocals": "Tracks/02 - Tame/BM/vocals.wav",
+        "other": "Tracks/02 - Tame/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "4e0c6ee60bc736b1c138a1010d4042f74efde671aea3f683b66177c3d1b7ac50",
+        "bass": "81c4b03abafdacf8b9ffba1c2acd49327a05dd6f831b22c218345e4b956d1148",
+        "vocals": "4818f64b239e10a54b1a310f6a34f674b0cf8c0fca5f43fd7b74690564ae2dd0",
+        "other": "8a081a16f1764818463fa2e45477082e3b61f21a59499d80824ce117efca7794"
+      },
+      "lrc_path": "Tracks/02 - Tame/02 - Tame.lrc",
+      "_bpm": 140,
+      "_camelot": "C1",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 3,
+      "title": "Wave Of Mutilation",
+      "artist": "Pixies",
+      "duration_ms": 124773,
+      "format": "flac",
+      "sha256": "4fcc9944f1463a68b60dbb9be3a0025c7f7d409e951fe91dccd56bf606941623",
+      "path": "Tracks/03 - Wave Of Mutilation/03. Wave Of Mutilation.flac",
+      "stems_path": "Tracks/03 - Wave Of Mutilation/BM",
+      "stems": {
+        "drums": "Tracks/03 - Wave Of Mutilation/BM/drums.wav",
+        "bass": "Tracks/03 - Wave Of Mutilation/BM/bass.wav",
+        "vocals": "Tracks/03 - Wave Of Mutilation/BM/vocals.wav",
+        "other": "Tracks/03 - Wave Of Mutilation/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "0cc968d865662d40e38395f7aae3d0d115efc19c8a900ccab71da868338995c3",
+        "bass": "4217a139aeac3312ee69d370db633bf51b65954c541f41aaf998c4916e7ab8ce",
+        "vocals": "2432a261eacae166a19e6ab4c826e3672370d46322a48e3f12a254a147c09044",
+        "other": "1c5042ff5ef38b59dfa343ecc58c26ab1fcd334fdd5f97dd3b5a53e1e7392a32"
+      },
+      "lrc_path": "Tracks/03 - Wave Of Mutilation/03 - Wave Of Mutilation.lrc",
+      "_bpm": 133,
+      "_camelot": "F6",
+      "genre": "alternative rock, rock, indie rock, grunge, noise rock, punk"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 4,
+      "title": "I Bleed",
+      "artist": "Pixies",
+      "duration_ms": 154800,
+      "format": "flac",
+      "sha256": "de92d419e15ea75e7238eaedb4be016524db9b6bb5d03ad5c4da399811557ded",
+      "path": "Tracks/04 - I Bleed/04. I Bleed.flac",
+      "stems_path": "Tracks/04 - I Bleed/BM",
+      "stems": {
+        "drums": "Tracks/04 - I Bleed/BM/drums.wav",
+        "bass": "Tracks/04 - I Bleed/BM/bass.wav",
+        "vocals": "Tracks/04 - I Bleed/BM/vocals.wav",
+        "other": "Tracks/04 - I Bleed/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "d629cb1669b8c42e83979321069dbc376570d674187206d7449ceac8c354b148",
+        "bass": "01560003568c0518589c1a952583f19d1b597754fc08ae91c350cbc6d230bcd8",
+        "vocals": "51fba2ea9c364459c69a5b6fb299ed5941cd5bd4464fae62a21ac94aa1c85278",
+        "other": "a6a64e2cc3834e8a0d86e23d2b0159f5201db1e8ac96c0b23785b217679e69d5"
+      },
+      "lrc_path": "Tracks/04 - I Bleed/04 - I Bleed.lrc",
+      "_bpm": 172,
+      "_camelot": "C#2",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 5,
+      "title": "Here Comes Your Man",
+      "artist": "Pixies",
+      "duration_ms": 201693,
+      "format": "flac",
+      "sha256": "7ea8f7067ea8faae83ac681a7fbc95a61d58dd2b5f0ae1ad5b5d46f40e365d4e",
+      "path": "Tracks/05 - Here Comes Your Man/05. Here Comes Your Man.flac",
+      "stems_path": "Tracks/05 - Here Comes Your Man/BM",
+      "stems": {
+        "drums": "Tracks/05 - Here Comes Your Man/BM/drums.wav",
+        "bass": "Tracks/05 - Here Comes Your Man/BM/bass.wav",
+        "vocals": "Tracks/05 - Here Comes Your Man/BM/vocals.wav",
+        "other": "Tracks/05 - Here Comes Your Man/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "8c4af1d7cd9caaf839bbb5b928d234d7185719a3318845e239a1bd59166a0ff3",
+        "bass": "dbefed7cad93bd1ef3576c3fbcab9b54f1b5f1e2bf6596f18ec786a4c9562170",
+        "vocals": "bda19dac0abb0fc322d5b5eb586b8d63d70d551f548157bab5dbdbbd47095198",
+        "other": "e1af5f2ecf31817b61add686a15d4956be5e8037f39266e6f3aa7d314928b61f"
+      },
+      "lrc_path": "Tracks/05 - Here Comes Your Man/05 - Here Comes Your Man.lrc",
+      "_bpm": 123,
+      "_camelot": "A10",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 6,
+      "title": "Dead",
+      "artist": "Pixies",
+      "duration_ms": 141373,
+      "format": "flac",
+      "sha256": "c5cb8f7513fd6f827421dbf358a1a920b84f5ab9028228c11c6f135c4407ae6e",
+      "path": "Tracks/06 - Dead/06. Dead.flac",
+      "stems_path": "Tracks/06 - Dead/BM",
+      "stems": {
+        "drums": "Tracks/06 - Dead/BM/drums.wav",
+        "bass": "Tracks/06 - Dead/BM/bass.wav",
+        "vocals": "Tracks/06 - Dead/BM/vocals.wav",
+        "other": "Tracks/06 - Dead/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "32060320eaca87fd5402fafca917d2b110321cc8197d1bb42f31144760c21671",
+        "bass": "ee06566ca2f0357876f6d8ea5be7f42609fff569034ddb3138825a6848827f35",
+        "vocals": "f251d09fd8a60f9c857d20f26d20e103a1658931012bbe31e8f3e0a7de1d1ac5",
+        "other": "4c798fe00e2926c362be068e4644a1318e102d5a94deca63d5fd625c2febf44b"
+      },
+      "lrc_path": "Tracks/06 - Dead/06 - Dead.lrc",
+      "_bpm": 120,
+      "_camelot": "C1",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 7,
+      "title": "Monkey Gone to Heaven",
+      "artist": "Pixies",
+      "duration_ms": 177466,
+      "format": "flac",
+      "sha256": "f25dd381e8a7e387ad5d8e4055123a3b6938ee2890649042ab51c4d274e61478",
+      "path": "Tracks/07 - Monkey Gone to Heaven/07. Monkey Gone to Heaven.flac",
+      "stems_path": "Tracks/07 - Monkey Gone to Heaven/BM",
+      "stems": {
+        "drums": "Tracks/07 - Monkey Gone to Heaven/BM/drums.wav",
+        "bass": "Tracks/07 - Monkey Gone to Heaven/BM/bass.wav",
+        "vocals": "Tracks/07 - Monkey Gone to Heaven/BM/vocals.wav",
+        "other": "Tracks/07 - Monkey Gone to Heaven/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "921c3922e5e6952dc6e1ac2095db5433c49d342bf5a22ff13417eb568861efd6",
+        "bass": "86a34824c53f27079daad24d2fa602eca6fe5c3d1a17e2769f8a6abce51c9c3c",
+        "vocals": "b74176d242ff919dcfa64895a2af36a7d322c137efa71af124c18e5b89f80551",
+        "other": "1ef6e3a55fac4fee0e98eec1cb236d67b39e6e3ed6e61c053c4e004e6a8e9f32"
+      },
+      "lrc_path": "Tracks/07 - Monkey Gone to Heaven/07 - Monkey Gone to Heaven.lrc",
+      "_bpm": 117,
+      "_camelot": "F#7",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 8,
+      "title": "Mr. Grieves",
+      "artist": "Pixies",
+      "duration_ms": 125800,
+      "format": "flac",
+      "sha256": "cb7e8f94c0d31c438b199c351babbeba8b8f744bfd4881d3474f1faf978b4bd6",
+      "path": "Tracks/08 - Mr. Grieves/08. Mr. Grieves.flac",
+      "stems_path": "Tracks/08 - Mr. Grieves/BM",
+      "stems": {
+        "drums": "Tracks/08 - Mr. Grieves/BM/drums.wav",
+        "bass": "Tracks/08 - Mr. Grieves/BM/bass.wav",
+        "vocals": "Tracks/08 - Mr. Grieves/BM/vocals.wav",
+        "other": "Tracks/08 - Mr. Grieves/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "be6feae4c7508d045427393f24cb6ed78eb5771415e3e856765b014fc85fb481",
+        "bass": "fb6def734d60431ce80dfe7ee1b5827ba8df4a99673bc8edf37a994b9661e5fc",
+        "vocals": "12ade85a41d476e9a2eaa2e49518e8bd04349d37664f4ddf93beca10010e5ea3",
+        "other": "b891d6bc099d30023a8a104ee58740457f564e8d280553a80a10f66b5563f9e7"
+      },
+      "lrc_path": "Tracks/08 - Mr. Grieves/08 - Mr. Grieves.lrc",
+      "_bpm": 115,
+      "_camelot": "F6",
+      "genre": "alternative rock, rock, grunge, indie rock, noise rock, pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 9,
+      "title": "Crackity Jones",
+      "artist": "Pixies",
+      "duration_ms": 84226,
+      "format": "flac",
+      "sha256": "42a4d9fe262deddb0b5bc9df0ac8fcc1e7e61029a30e30a357db97e649db14fe",
+      "path": "Tracks/09 - Crackity Jones/09. Crackity Jones.flac",
+      "stems_path": "Tracks/09 - Crackity Jones/BM",
+      "stems": {
+        "drums": "Tracks/09 - Crackity Jones/BM/drums.wav",
+        "bass": "Tracks/09 - Crackity Jones/BM/bass.wav",
+        "vocals": "Tracks/09 - Crackity Jones/BM/vocals.wav",
+        "other": "Tracks/09 - Crackity Jones/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "5124b972d14693e6c52cbf9de53859d05838331292702b8cc1df062d4a58d486",
+        "bass": "173c88fd572ea68bf75d06fc649912ded056ad510c0888ed84dee46c8a46e303",
+        "vocals": "ac378e47c56a49092442ace7b7ebde98bfe02bba593bbc67d50975e8313565cf",
+        "other": "1278109ed2ad36d0f900cd4e47dfd7846124054ecc576f281d864bd7942172a3"
+      },
+      "lrc_path": "Tracks/09 - Crackity Jones/09 - Crackity Jones.lrc",
+      "_bpm": 148,
+      "_camelot": "C1",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 10,
+      "title": "La La Love You",
+      "artist": "Pixies",
+      "duration_ms": 163640,
+      "format": "flac",
+      "sha256": "f68edbbff41fecf7f6fa18bafd5518156e76becd33d05293697ba1885a1a8b52",
+      "path": "Tracks/10 - La La Love You/10. La La Love You.flac",
+      "stems_path": "Tracks/10 - La La Love You/BM",
+      "stems": {
+        "drums": "Tracks/10 - La La Love You/BM/drums.wav",
+        "bass": "Tracks/10 - La La Love You/BM/bass.wav",
+        "vocals": "Tracks/10 - La La Love You/BM/vocals.wav",
+        "other": "Tracks/10 - La La Love You/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "a260e0ec1b2e0af5d1629c3b222691575bfb7d695984c1c325913e3ece845aa1",
+        "bass": "e4efa37131322b70b0dda7f4d11b615d699600a1cce1fb2778202e24f9975013",
+        "vocals": "7c8d8036a1b66d88c9cc47a33433517b1a14e93a6ac6069de1ae6f646848a02d",
+        "other": "3b395dbeae0cc9ce859efbb877fb74791e4e064d12a85d97447a4c2c42bdc97a"
+      },
+      "lrc_path": "Tracks/10 - La La Love You/10 - La La Love You.lrc",
+      "_bpm": 62,
+      "_camelot": "D3",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 11,
+      "title": "No 13 Baby",
+      "artist": "Pixies",
+      "duration_ms": 231626,
+      "format": "flac",
+      "sha256": "f9f91b8ce1df2eb039dea88511c983807ecdfd7cc138b265100c74c70d9c17b2",
+      "path": "Tracks/11 - No 13 Baby/11. No 13 Baby.flac",
+      "stems_path": "Tracks/11 - No 13 Baby/BM",
+      "stems": {
+        "drums": "Tracks/11 - No 13 Baby/BM/drums.wav",
+        "bass": "Tracks/11 - No 13 Baby/BM/bass.wav",
+        "vocals": "Tracks/11 - No 13 Baby/BM/vocals.wav",
+        "other": "Tracks/11 - No 13 Baby/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "7905e59c4bf422047a64ec2cf3e88cf8c45f5b9cbc617d750983f5a33ccdc99f",
+        "bass": "cfb25ca9e04c98978b367fe0ebbbc460a16db7ccc47d0cd702d53722e89c06af",
+        "vocals": "98a0dfcff19d6ad137947fffa2e7a334245ed88c4511d3f3e2b116d57e189b20",
+        "other": "797c2d05d73aa8a6c77fcf932be69ccbca00e568cf59ca53ee49a65d1f8a4f3e"
+      },
+      "lrc_path": "Tracks/11 - No 13 Baby/11 - No 13 Baby.lrc",
+      "_bpm": 62,
+      "_camelot": "C1",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 12,
+      "title": "There Goes My Gun",
+      "artist": "Pixies",
+      "duration_ms": 109533,
+      "format": "flac",
+      "sha256": "ac37b3a74c6f58066cef7fe942ff49bfa3bb8b3738fc0ec9dfb1e87726481f64",
+      "path": "Tracks/12 - There Goes My Gun/12. There Goes My Gun.flac",
+      "stems_path": "Tracks/12 - There Goes My Gun/BM",
+      "stems": {
+        "drums": "Tracks/12 - There Goes My Gun/BM/drums.wav",
+        "bass": "Tracks/12 - There Goes My Gun/BM/bass.wav",
+        "vocals": "Tracks/12 - There Goes My Gun/BM/vocals.wav",
+        "other": "Tracks/12 - There Goes My Gun/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "3d6d3a66a818e60cb52a526d31a006a54b3558448ae11230648c0df0d4344c65",
+        "bass": "5d6261365db77bb082829aefc6e754477845c21432f85fcab8d99c494e0f7dd8",
+        "vocals": "499f0d53e7a26f28c1e1463d0a15fcab88535dff75c8e8b52969b94a509b5797",
+        "other": "0f5578f4dfc2a2ee7d64409cb896b98a90a911cdf9cd19ebad38be964734a0fb"
+      },
+      "lrc_path": "Tracks/12 - There Goes My Gun/12 - There Goes My Gun.lrc",
+      "_bpm": 63,
+      "_camelot": "C#2",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 13,
+      "title": "Hey",
+      "artist": "Pixies",
+      "duration_ms": 211440,
+      "format": "flac",
+      "sha256": "98c011763a16339371365e5ec2d2474bff69e62d8df0369597002c60b16292c0",
+      "path": "Tracks/13 - Hey/13. Hey.flac",
+      "stems_path": "Tracks/13 - Hey/BM",
+      "stems": {
+        "drums": "Tracks/13 - Hey/BM/drums.wav",
+        "bass": "Tracks/13 - Hey/BM/bass.wav",
+        "vocals": "Tracks/13 - Hey/BM/vocals.wav",
+        "other": "Tracks/13 - Hey/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "0df3cc3bb8bd5c0707fa3879445eed052a0c055caa611cefadbe3a360eab517d",
+        "bass": "d3ad2b7cb247d5b65cec6c9a3e8a7d9661d08481a4a42c522551d99def84f46c",
+        "vocals": "68a547f3f90c7853ca9908d2189a5ae96391ba913e4206a4473a37566a615f77",
+        "other": "f99ba2047522a23d51f497148223d4d6f5eab2092ba419ca2d357128637e7c45"
+      },
+      "lrc_path": "Tracks/13 - Hey/13 - Hey.lrc",
+      "_bpm": 67,
+      "_camelot": "D3",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 14,
+      "title": "Silver",
+      "artist": "Pixies",
+      "duration_ms": 145266,
+      "format": "flac",
+      "sha256": "8ad691a16318da36be95407e01cabad70d3acb8ce58a51533d94f39783b33e4d",
+      "path": "Tracks/14 - Silver/14. Silver.flac",
+      "stems_path": "Tracks/14 - Silver/BM",
+      "stems": {
+        "drums": "Tracks/14 - Silver/BM/drums.wav",
+        "bass": "Tracks/14 - Silver/BM/bass.wav",
+        "vocals": "Tracks/14 - Silver/BM/vocals.wav",
+        "other": "Tracks/14 - Silver/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "e9de62beb0b3b2d4fc395aac238cfbf86c829205633856598f093513690e6f4c",
+        "bass": "d268ccca3b3798cf69445b00d5d6782183296217c64c64b6461f9138fbf619a3",
+        "vocals": "6dfff198d79cb15139816e2e42d2691cf70b3990cb4e4f9c22335f87a5d78404",
+        "other": "8df3cc925af27a80f5af6f9f138f59de4b805bc87a803444b3141fc6412ccd8e"
+      },
+      "lrc_path": "Tracks/14 - Silver/14 - Silver.lrc",
+      "_bpm": 167,
+      "_camelot": "A10",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 15,
+      "title": "Gouge Away",
+      "artist": "Pixies",
+      "duration_ms": 165066,
+      "format": "flac",
+      "sha256": "b58b3b9794d1f3b70fc58d4f20183f82de5acd1e30c8c0fe36683b7b65fb9ca4",
+      "path": "Tracks/15 - Gouge Away/15. Gouge Away.flac",
+      "stems_path": "Tracks/15 - Gouge Away/BM",
+      "stems": {
+        "drums": "Tracks/15 - Gouge Away/BM/drums.wav",
+        "bass": "Tracks/15 - Gouge Away/BM/bass.wav",
+        "vocals": "Tracks/15 - Gouge Away/BM/vocals.wav",
+        "other": "Tracks/15 - Gouge Away/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "b7c36fb0ffce9acd936a0057230d2d83de952f0aec4a6a1507dda138fa8053fc",
+        "bass": "cda6009cfb7fb99c0228e8e112586cd855005d51dcdc4cb0bace71b24ba7aeec",
+        "vocals": "580cd3d64cab001277fd7282e58d4770ada36432851ce94ec0df1db6f69166e3",
+        "other": "c4af17c7ebe19339f814d488a85abf0d445f2ace1f4019660c78b23aae256c17"
+      },
+      "lrc_path": "Tracks/15 - Gouge Away/15 - Gouge Away.lrc",
+      "_bpm": 63,
+      "_camelot": "G#9",
+      "genre": "alternative rock, indie rock, rock"
+    }
+  ],
+  "cover": "Covers/album.jpg",
+  "disc_covers": {}
+}
