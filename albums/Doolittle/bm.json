@@ -1,0 +1,105 @@
+{
+  "schema_version": "bm/1.0",
+  "album_artist": "Pixies",
+  "album_artists": [
+    "Pixies"
+  ],
+  "title": "Doolittle",
+  "year": "1989",
+  "release_date": "1989",
+  "genre": "alternative rock, indie rock, rock",
+  "discs": 1,
+  "total_tracks": 3,
+  "stems_model": "htdemucs",
+  "stems_per_track": [
+    "drums",
+    "bass",
+    "vocals",
+    "other"
+  ],
+  "tracks": [
+    {
+      "disc_number": 1,
+      "track_number": 1,
+      "title": "Debaser",
+      "artist": "Pixies",
+      "duration_ms": 173173,
+      "format": "flac",
+      "sha256": "65cc9634232f1b475ab21531533304568f61a9154a472b0a92c316034aa73566",
+      "path": "Tracks/01 - Debaser/01. Debaser.flac",
+      "stems_path": "Tracks/01 - Debaser/BM",
+      "stems": {
+        "drums": "Tracks/01 - Debaser/BM/drums.wav",
+        "bass": "Tracks/01 - Debaser/BM/bass.wav",
+        "vocals": "Tracks/01 - Debaser/BM/vocals.wav",
+        "other": "Tracks/01 - Debaser/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "0b5466a4c8b6fd0bd67e7b07aaf79e66acfeaf0dfe6b9162c4730e1d3af81f32",
+        "bass": "4e70bb7b4614182fb491c4a2fdc45eb0e2e065fe26ec36b5985820b3aa2ef926",
+        "vocals": "bf8ca21790270d55d391e888cc9581d6afb8b43c7a52c6dba5c624f312d20c20",
+        "other": "464ee5ff7992a3c409bb32c164cbfaaf3840180df5f95293e0fe43ec27d7192d"
+      },
+      "lrc_path": "Tracks/01 - Debaser/01 - Debaser.lrc",
+      "_bpm": 136,
+      "_camelot": "F6",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 14,
+      "title": "Silver",
+      "artist": "Pixies",
+      "duration_ms": 145266,
+      "format": "flac",
+      "sha256": "8ad691a16318da36be95407e01cabad70d3acb8ce58a51533d94f39783b33e4d",
+      "path": "Tracks/14 - Silver/14. Silver.flac",
+      "stems_path": "Tracks/14 - Silver/BM",
+      "stems": {
+        "drums": "Tracks/14 - Silver/BM/drums.wav",
+        "bass": "Tracks/14 - Silver/BM/bass.wav",
+        "vocals": "Tracks/14 - Silver/BM/vocals.wav",
+        "other": "Tracks/14 - Silver/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "e9de62beb0b3b2d4fc395aac238cfbf86c829205633856598f093513690e6f4c",
+        "bass": "d268ccca3b3798cf69445b00d5d6782183296217c64c64b6461f9138fbf619a3",
+        "vocals": "6dfff198d79cb15139816e2e42d2691cf70b3990cb4e4f9c22335f87a5d78404",
+        "other": "8df3cc925af27a80f5af6f9f138f59de4b805bc87a803444b3141fc6412ccd8e"
+      },
+      "lrc_path": "Tracks/14 - Silver/14 - Silver.lrc",
+      "_bpm": 167,
+      "_camelot": "A10",
+      "genre": "alternative rock, indie rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 15,
+      "title": "Gouge Away",
+      "artist": "Pixies",
+      "duration_ms": 165066,
+      "format": "flac",
+      "sha256": "b58b3b9794d1f3b70fc58d4f20183f82de5acd1e30c8c0fe36683b7b65fb9ca4",
+      "path": "Tracks/15 - Gouge Away/15. Gouge Away.flac",
+      "stems_path": "Tracks/15 - Gouge Away/BM",
+      "stems": {
+        "drums": "Tracks/15 - Gouge Away/BM/drums.wav",
+        "bass": "Tracks/15 - Gouge Away/BM/bass.wav",
+        "vocals": "Tracks/15 - Gouge Away/BM/vocals.wav",
+        "other": "Tracks/15 - Gouge Away/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "b7c36fb0ffce9acd936a0057230d2d83de952f0aec4a6a1507dda138fa8053fc",
+        "bass": "cda6009cfb7fb99c0228e8e112586cd855005d51dcdc4cb0bace71b24ba7aeec",
+        "vocals": "580cd3d64cab001277fd7282e58d4770ada36432851ce94ec0df1db6f69166e3",
+        "other": "c4af17c7ebe19339f814d488a85abf0d445f2ace1f4019660c78b23aae256c17"
+      },
+      "lrc_path": "Tracks/15 - Gouge Away/15 - Gouge Away.lrc",
+      "_bpm": 63,
+      "_camelot": "G#9",
+      "genre": "alternative rock, indie rock, rock"
+    }
+  ],
+  "cover": "Covers/album.jpg",
+  "disc_covers": {}
+}
