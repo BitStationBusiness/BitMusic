@@ -1,0 +1,321 @@
+{
+  "schema_version": "bm/1.0",
+  "album_artist": "Olivia Rodrigo",
+  "album_artists": [
+    "Olivia Rodrigo"
+  ],
+  "title": "SOUR",
+  "year": "2021",
+  "release_date": "2021",
+  "genre": "alternative rock, pop, indie pop, indie rock, pop rock, rock, pop punk, ballad, power pop, teen pop, folk pop",
+  "discs": 1,
+  "total_tracks": 11,
+  "stems_model": "htdemucs",
+  "stems_per_track": [
+    "drums",
+    "bass",
+    "vocals",
+    "other"
+  ],
+  "tracks": [
+    {
+      "disc_number": 1,
+      "track_number": 1,
+      "title": "brutal",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 143746,
+      "format": "flac",
+      "sha256": "771b11022d015e055dcb1bed75e17ed6d22a1872082d2c384f4e98c5a0e1095a",
+      "path": "Tracks/01 - brutal/01. brutal.flac",
+      "stems_path": "Tracks/01 - brutal/BM",
+      "stems": {
+        "drums": "Tracks/01 - brutal/BM/drums.wav",
+        "bass": "Tracks/01 - brutal/BM/bass.wav",
+        "vocals": "Tracks/01 - brutal/BM/vocals.wav",
+        "other": "Tracks/01 - brutal/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "cb227f4a60ffe383cf298e3af36ce8755ce32029a33ce545e2c60f9ba30e361b",
+        "bass": "b11536046c677ea1e6c69ea8a21855d04216d4ea9f7e85b99f6b115f017062fa",
+        "vocals": "a4116b24f3f8273fc9a0b5a0d90c6083b83204a90d0abfe1683d6842d9afa6b3",
+        "other": "89f7e668f8f8e10606b08eafcfe89238e593c6085202a13dd85554e3b103df05"
+      },
+      "lrc_path": "Tracks/01 - brutal/01 - brutal.lrc",
+      "_bpm": 62,
+      "_camelot": "C1",
+      "genre": "alternative rock, pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 2,
+      "title": "traitor",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 229226,
+      "format": "flac",
+      "sha256": "7b50f5b10c99c867b6f270fb52d2c92a48c55ee6364258eb401e75765dd41a99",
+      "path": "Tracks/02 - traitor/02. traitor.flac",
+      "stems_path": "Tracks/02 - traitor/BM",
+      "stems": {
+        "drums": "Tracks/02 - traitor/BM/drums.wav",
+        "bass": "Tracks/02 - traitor/BM/bass.wav",
+        "vocals": "Tracks/02 - traitor/BM/vocals.wav",
+        "other": "Tracks/02 - traitor/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "71dd5afb1143b84a101cf3c94b94c2d809ea4c1a4284bab734370a2b87c4595c",
+        "bass": "c85bdec8eac66ba053ee09ff576506b7a685b30b5162ad7ebf8bd4b0456e6ada",
+        "vocals": "dedc180c394e5688114fd308a0f5ff3410db41865e5ef0c34c48893ee75f427f",
+        "other": "d62c8dd332cf8146822e9b39868894b4a2f49cc1ec077e23ec7478200e9c4d7b"
+      },
+      "lrc_path": "Tracks/02 - traitor/02 - traitor.lrc",
+      "_bpm": 76,
+      "_camelot": "D#4",
+      "genre": "pop, indie pop, indie rock, pop rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 3,
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 242013,
+      "format": "flac",
+      "sha256": "c7bc897aedfd5cf64f104c1ed4af97f4cd8cd5ce2d69efcbc70e294ebb103d5b",
+      "path": "Tracks/03 - drivers license/03. drivers license.flac",
+      "stems_path": "Tracks/03 - drivers license/BM",
+      "stems": {
+        "drums": "Tracks/03 - drivers license/BM/drums.wav",
+        "bass": "Tracks/03 - drivers license/BM/bass.wav",
+        "vocals": "Tracks/03 - drivers license/BM/vocals.wav",
+        "other": "Tracks/03 - drivers license/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "bb4f103e7aaa9cd568623498c9e6677e7cc6901e6a1444f084d563a78eae4ad1",
+        "bass": "e7de7b35c228f84c69b74734ea795e8954c7c7165e67f3ba8a26bccdb5b080fa",
+        "vocals": "2d6ed2f8272f0d47e3f7b4829cb7271f57d97724229bb4e5bb7b5ddf27cef8e1",
+        "other": "fb07df3ab0961f4afbaaa7875501e0cb7e3c16bf2c851f7440645dd34efb836b"
+      },
+      "lrc_path": "Tracks/03 - drivers license/03 - drivers license.lrc",
+      "_bpm": 144,
+      "_camelot": "A#11",
+      "genre": "pop, rock, pop punk, ballad, power pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 4,
+      "title": "1 step forward, 3 steps back",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 163586,
+      "format": "flac",
+      "sha256": "ba758324e8c49210198552c935a814d45dbf2d968a3610bd9d4379e1db453470",
+      "path": "Tracks/04 - 1 step forward, 3 steps back/04. 1 step forward, 3 steps back.flac",
+      "stems_path": "Tracks/04 - 1 step forward, 3 steps back/BM",
+      "stems": {
+        "drums": "Tracks/04 - 1 step forward, 3 steps back/BM/drums.wav",
+        "bass": "Tracks/04 - 1 step forward, 3 steps back/BM/bass.wav",
+        "vocals": "Tracks/04 - 1 step forward, 3 steps back/BM/vocals.wav",
+        "other": "Tracks/04 - 1 step forward, 3 steps back/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "ed4eaf9e9fb5fb59f90c4bc4577605a22ea24df5e5cdfce0bb0cb48d63552e1f",
+        "bass": "e57f52accfb0fac06e8e1a67c51e783c446d0a30edcde2fb24df63fd66f1335f",
+        "vocals": "a7c41f8cc09ba8390ef5c823cee7327f6427dddd0e35d5eb68895f4e4b16b184",
+        "other": "253dfb6f412eb5885021e38a1c1bb07799fbe297b7203a2f09a6c3707385cb54"
+      },
+      "lrc_path": "Tracks/04 - 1 step forward, 3 steps back/04 - 1 step forward, 3 steps back.lrc",
+      "_bpm": 178,
+      "_camelot": "D3",
+      "genre": "indie pop, pop, pop rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 5,
+      "title": "deja vu",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 215506,
+      "format": "flac",
+      "sha256": "f5f2e1f0db9b42983df0f5671521c78ede59f84d5ea44486c89b61748d2d4522",
+      "path": "Tracks/05 - deja vu/05. deja vu.flac",
+      "stems_path": "Tracks/05 - deja vu/BM",
+      "stems": {
+        "drums": "Tracks/05 - deja vu/BM/drums.wav",
+        "bass": "Tracks/05 - deja vu/BM/bass.wav",
+        "vocals": "Tracks/05 - deja vu/BM/vocals.wav",
+        "other": "Tracks/05 - deja vu/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "c0edd05e5c976a6c93750d13813eed7c5d0574ea1a4f3e829446f8ee3da7f9e8",
+        "bass": "5faef223430c6c268eb3f44fbd8d01f0d2cc921f84e0db0b8c42a19547a600d5",
+        "vocals": "3feaa6b76f6a6402744d18540215b9e94c3c4dff29ddb8f5a9fd81d849baf0ed",
+        "other": "f7e5021cf0d53217b2a8b8f1d0df681ff13f9939b3dd32ed833762d2decea31c"
+      },
+      "lrc_path": "Tracks/05 - deja vu/05 - deja vu.lrc",
+      "_bpm": 185,
+      "_camelot": "C#2",
+      "genre": "pop, rock, pop punk, ballad, power pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 6,
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 178146,
+      "format": "flac",
+      "sha256": "708a6757fd91251bdffaed3c1692239b588bbc8e7ebd18596d8c76a24073ce99",
+      "path": "Tracks/06 - good 4 u/06. good 4 u.flac",
+      "stems_path": "Tracks/06 - good 4 u/BM",
+      "stems": {
+        "drums": "Tracks/06 - good 4 u/BM/drums.wav",
+        "bass": "Tracks/06 - good 4 u/BM/bass.wav",
+        "vocals": "Tracks/06 - good 4 u/BM/vocals.wav",
+        "other": "Tracks/06 - good 4 u/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "7ab1686c114c539f642bb03b7297af46c9ead963e545e63ade047c2f599967fc",
+        "bass": "bc8cba7a2ca67ba01bad33bb645039127125c6bd1f54a06786333ba5a997b9bd",
+        "vocals": "7f0443d20adf616eab0fae26acd680de4890879072c0951c24b6e3848bfe81c4",
+        "other": "87aed87d3f2117dd59425671642ee1da6df9d8782fdc8d71c5887d2134523fa3"
+      },
+      "lrc_path": "Tracks/06 - good 4 u/06 - good 4 u.lrc",
+      "_bpm": 167,
+      "_camelot": "E5",
+      "genre": "pop, rock, pop punk, ballad, power pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 7,
+      "title": "enough for you",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 202826,
+      "format": "flac",
+      "sha256": "458c7b313dc8982fb7a0fc4e51f6843679900809b16ca56426e13cd6248a95fb",
+      "path": "Tracks/07 - enough for you/07. enough for you.flac",
+      "stems_path": "Tracks/07 - enough for you/BM",
+      "stems": {
+        "drums": "Tracks/07 - enough for you/BM/drums.wav",
+        "bass": "Tracks/07 - enough for you/BM/bass.wav",
+        "vocals": "Tracks/07 - enough for you/BM/vocals.wav",
+        "other": "Tracks/07 - enough for you/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "293e30c424b18b600537daf156d78218d60a1af492e5f80f7afd8890662c8de2",
+        "bass": "66610ce3a77bbd0703c747f49aa740d097a8aca2fb53f486e6d2356a7bd68372",
+        "vocals": "bc66ddf0a718f7c0aedab51e93781d807a7f19962fe6f1a1591d3ffedd0ec4e6",
+        "other": "1be4fd73bd0c8f0519fee4c180dc1e770503a73424958535c0b0f173eb126500"
+      },
+      "lrc_path": "Tracks/07 - enough for you/07 - enough for you.lrc",
+      "_bpm": 191,
+      "_camelot": "G8",
+      "genre": "indie pop, pop, pop rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 8,
+      "title": "happier",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 175933,
+      "format": "flac",
+      "sha256": "effde3491a5c4af27347e98812ea7aacc6d06846e825a00518301b7f0584cfc4",
+      "path": "Tracks/08 - happier/08. happier.flac",
+      "stems_path": "Tracks/08 - happier/BM",
+      "stems": {
+        "drums": "Tracks/08 - happier/BM/drums.wav",
+        "bass": "Tracks/08 - happier/BM/bass.wav",
+        "vocals": "Tracks/08 - happier/BM/vocals.wav",
+        "other": "Tracks/08 - happier/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "5a39064e2a03d29c2e0a70635d46f1f4e05eaab44e66314608cccbcad9581b59",
+        "bass": "e08859acdaa0f046f1744a8d037cddcb5dac3c6d464895fecfdc315bfa728a61",
+        "vocals": "c99bab0ee20968b2d49418659635c54ff6d409d9a0e47fea891e7ca6c163217e",
+        "other": "644d587956261d90289ab6ef1887a4cd992b4da1322ffcf2001d429baaa34649"
+      },
+      "lrc_path": "Tracks/08 - happier/08 - happier.lrc",
+      "_bpm": 172,
+      "_camelot": "C#2",
+      "genre": "pop, rock, pop punk, ballad, power pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 9,
+      "title": "jealousy, jealousy",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 173160,
+      "format": "flac",
+      "sha256": "7221aad473c2763d442ef648c24a1a7d91e0748844dde705b6bfc40c4e7903a2",
+      "path": "Tracks/09 - jealousy, jealousy/09. jealousy, jealousy.flac",
+      "stems_path": "Tracks/09 - jealousy, jealousy/BM",
+      "stems": {
+        "drums": "Tracks/09 - jealousy, jealousy/BM/drums.wav",
+        "bass": "Tracks/09 - jealousy, jealousy/BM/bass.wav",
+        "vocals": "Tracks/09 - jealousy, jealousy/BM/vocals.wav",
+        "other": "Tracks/09 - jealousy, jealousy/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "9fa57a224be735bb1e15318e5c5bf8e02a42c688a4bc022c3a643148779c0a0e",
+        "bass": "1fc8465fb126aba1ce58986ad0a7856b4cc185e6e4a493b10a3726e781c6c896",
+        "vocals": "e553618e08ca9b6b2026f30a3f16ff7eed1acbb535f232bfec0444aa029fbe77",
+        "other": "aa22ffb2291fd955d91bb93c4b203bccdb40170cad17612b82306f9fa001553d"
+      },
+      "lrc_path": "Tracks/09 - jealousy, jealousy/09 - jealousy, jealousy.lrc",
+      "_bpm": 167,
+      "_camelot": "G#9",
+      "genre": "indie pop, pop, indie rock, pop rock, rock"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 10,
+      "title": "favorite crime",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 152666,
+      "format": "flac",
+      "sha256": "c35c0eee1c178fba9e59262002b1df1ced0bf7fc20e8c14728021d38cd09b640",
+      "path": "Tracks/10 - favorite crime/10. favorite crime.flac",
+      "stems_path": "Tracks/10 - favorite crime/BM",
+      "stems": {
+        "drums": "Tracks/10 - favorite crime/BM/drums.wav",
+        "bass": "Tracks/10 - favorite crime/BM/bass.wav",
+        "vocals": "Tracks/10 - favorite crime/BM/vocals.wav",
+        "other": "Tracks/10 - favorite crime/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "e84bbfd0de5d6869f7c0c7ecfc94bb49d983c3309bf8cb5e58b11ad8b6512deb",
+        "bass": "4b44541eebbfb598f2933e4c520d5cef467969b34d259791f1cb0ccfd2cb51f6",
+        "vocals": "11421c3a8453e7cf0004f1924dae391ad2df29cccc18907a9cdc2d241405cd93",
+        "other": "cdb93b09d3fbdcb543904c294fb15d2e1a0dbfb880369e9ab9489e425624c8cc"
+      },
+      "lrc_path": "Tracks/10 - favorite crime/10 - favorite crime.lrc",
+      "_bpm": 178,
+      "_camelot": "C#2",
+      "genre": "indie pop, pop, pop rock, teen pop"
+    },
+    {
+      "disc_number": 1,
+      "track_number": 11,
+      "title": "hope ur ok",
+      "artist": "Olivia Rodrigo",
+      "duration_ms": 209560,
+      "format": "flac",
+      "sha256": "df5824bc210edb47460828eed67c927a8dee3b37951c09218511b0fb0ef57c75",
+      "path": "Tracks/11 - hope ur ok/11. hope ur ok.flac",
+      "stems_path": "Tracks/11 - hope ur ok/BM",
+      "stems": {
+        "drums": "Tracks/11 - hope ur ok/BM/drums.wav",
+        "bass": "Tracks/11 - hope ur ok/BM/bass.wav",
+        "vocals": "Tracks/11 - hope ur ok/BM/vocals.wav",
+        "other": "Tracks/11 - hope ur ok/BM/other.wav"
+      },
+      "stem_hashes": {
+        "drums": "abdd6cbb0c7bf360b9fd394f74f56ec3da59f2f3066c3a8b074a580909b451f2",
+        "bass": "a8244b713f4d5edda656146b1dc3217971b281ed6ed26b55935ac21a05835876",
+        "vocals": "774da38e186978089ce47aab9f55bf7a4d826e30fd9b15f4a840f7ae39cef333",
+        "other": "02c3eff66ef8b1b7afdee34b641d3a68422dac3fc8b7707a9e2e2967d4f29bbc"
+      },
+      "lrc_path": "Tracks/11 - hope ur ok/11 - hope ur ok.lrc",
+      "_bpm": 152,
+      "_camelot": "C1",
+      "genre": "folk pop, pop, indie pop, pop rock, teen pop"
+    }
+  ],
+  "cover": "Covers/album.jpg",
+  "disc_covers": {}
+}
