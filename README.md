@@ -8,7 +8,7 @@
 
 **Separate any song into drums, bass, vocals and instruments — on your own PC.
 Sing it with word-by-word karaoke. Mix it on a real DJ controller. Share it
-peer-to-peer with your friends.**
+peer-to-peer with your friends. Carry your library to your phone.**
 
 No subscription. No streaming account. No cloud. Your files never leave your computer.
 
@@ -16,7 +16,7 @@ No subscription. No streaming account. No cloud. Your files never leave your com
 [![Support on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20development-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bitstation)
 
 [![Latest release](https://img.shields.io/github/v/release/BitStationBusiness/BitMusic?label=latest&color=A855F7)](https://github.com/BitStationBusiness/BitMusic/releases/latest)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20(x64)-informational)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20(x64)%20%2B%20Android%20companion-informational)
 ![Price](https://img.shields.io/badge/price-free-brightgreen)
 
 *Created by **Eduardo Javier Olórtigue Samanamud** · part of the **BitStation** ecosystem*
@@ -42,6 +42,7 @@ Here is what BitMusic does that Spotify, Apple Music, YouTube Music and Tidal
 | **AI auto-mixing** between your songs by key, BPM and genre | ✅ Atom engine | ⚠️ Simple crossfade |
 | **Music video blended into the visuals**, synced to your audio | ✅ | ❌ |
 | **Share your library and playlists directly with friends** | ✅ Peer-to-peer, no upload to anyone's server | ❌ |
+| **Take it to your phone**, stems included | ✅ Bit-Phone companion app | ❌ |
 | **Works fully offline** | ✅ | ❌ |
 | **Owns your files** | ✅ Always yours | ❌ Access ends with the subscription |
 | **Price** | **Free** | $10–12 / month, forever |
@@ -98,6 +99,13 @@ Downloading someone's playlist is smart: songs you already own are **reused**,
 and only what is missing is transferred — into the **real artist and album**
 they belong to, never a duplicate folder.
 
+### 📱 Bit-Phone — your library, in your pocket
+BitMusic Windows can push your songs (audio, cover art, lyrics and their 4
+stems) straight to an Android phone over a USB cable, and a small dedicated
+Android app plays them. It is deliberately a companion, not a second copy of
+BitMusic — see [what it can and can't do yet](#-windows-vs-android-bit-phone-companion)
+below before you rely on it.
+
 ### ✨ And the details that make it feel finished
 - **Every song at the same volume** — proper loudness normalisation (BS.1770-style
   gated measurement) with a true peak limiter, so a 1970s master and a modern
@@ -110,16 +118,47 @@ they belong to, never a duplicate folder.
   reacts to each stem, and a mini player.
 - **Windows taskbar controls** under the thumbnail preview.
 - **10-band EQ**, mixer, favourites, play counts, smart playlists.
-- **Music Quiz** — a stem-reveal guessing game built from your own library.
+- **Music Quiz** — a stem-reveal guessing game built from your own library, on
+  both Windows and Android.
 - **Artist packs** — export an artist as a single `.png` that is secretly a full
   archive, and drag it onto a friend's BitMusic to import it.
-- **Auto-update** — BitMusic tells you when a new version exists and installs it
-  for you in one click.
+- **Auto-update** — both apps tell you when a new version exists and install
+  it for you in one click.
+
+---
+
+## 📱 Windows vs. Android (Bit-Phone companion)
+
+BitMusic is a **native Windows application first**; Android is a **companion
+app**, not a second full build of BitMusic. It plays what Windows sends it and
+nothing else — it never downloads, separates stems, or talks to the P2P
+network on its own. Read this table before assuming a Windows feature also
+exists on your phone.
+
+| | Windows | Android (Bit-Phone) |
+|---|---|---|
+| **Play your library** | ✅ | ✅ |
+| **Getting music onto it** | Imports files directly, from anywhere | ❌ Pulled from Windows over a **USB cable** (`adb`) — not standalone. Requires Android SDK platform-tools installed on the PC for now; not bundled yet |
+| **4-stem separation (Demucs)** | ✅ Runs the neural network | ❌ Never separates on-device — plays stems Windows already generated and sent over |
+| **Karaoke** | ✅ Word-by-word lyrics + stem faders + video layer | ✅ Word-by-word lyrics + stem faders, **no music video** (needs a GPU-composited layer this build doesn't have) |
+| **Music Quiz** | ✅ | ✅ |
+| **DJ Pro / Atom / MIDI controllers** | ✅ | ❌ Not on a phone |
+| **Music video background** | ✅ | ❌ |
+| **BitMusic Network (P2P share/Store)** | ✅ Publish and download | ❌ Not reachable from the phone |
+| **Stem separation trigger, if missing** | ✅ Runs automatically before a song is sent to your phone | — |
+| **Offline once synced** | ✅ | ✅ |
+| **Auto-update** | ✅ GitHub Releases | ✅ GitHub Releases |
+
+**In short:** Windows is the full app — library, separation, DJ booth, Atom,
+karaoke with video, and the P2P network. Android is a lightweight, offline
+**listening and karaoke** companion for the songs you have already chosen to
+carry with you, kept in sync over USB from the Windows app.
 
 ---
 
 ## Install
 
+### Windows
 1. Download the latest **`BitMusic-Setup-x.y.z.exe`** from the
    [releases page](https://github.com/BitStationBusiness/BitMusic/releases/latest).
 2. Run it and accept the Windows prompt.
@@ -129,17 +168,33 @@ they belong to, never a duplicate folder.
 installer — no Python, no runtimes, no extra downloads. An NVIDIA GPU is
 optional and only makes the stem separation faster.
 
-From then on, BitMusic checks for updates every time you open it and offers them
-to you. Nothing installs itself behind your back.
+### Android (Bit-Phone companion)
+1. Download the latest **`BitMusic-Android-x.y.z.apk`** from the same
+   [releases page](https://github.com/BitStationBusiness/BitMusic/releases/latest)
+   and install it on your phone (allow "install from unknown sources" once).
+2. Enable **USB debugging** on your phone (Developer options) and plug it into
+   the PC running BitMusic Windows.
+3. Open **More → Bit-Phone** in BitMusic Windows, pick the songs you want, and
+   send them. The Android app plays them the moment the transfer finishes.
+
+**Requirements:** Android 9 (API 28) or newer. The PC sending the songs needs
+[Android SDK platform-tools](https://developer.android.com/tools/releases/platform-tools)
+installed so `adb.exe` is on it — this will be bundled with BitMusic in a
+future release so it is no longer a manual step.
+
+From then on, both apps check for updates every time you open them and offer
+them to you. Nothing installs itself behind your back.
 
 ---
 
 ## Roadmap
 
-- **Right now: Windows only.** BitMusic is a native Windows application, and
-  that is the only supported platform today.
-- **Android is being worked on** for the future, so your library and your
-  playlists can travel with you.
+- **Bundle `adb.exe`** with the Windows installer so sending music to a phone
+  needs no separate SDK install.
+- **Wireless sync to Bit-Phone**, so a USB cable is no longer required for
+  every send.
+- **Music video on Bit-Phone**, once there is a lightweight rendering path for
+  it on Android.
 - More ideas, in no particular order: extra DJ controllers, more stem models,
   and deeper sharing between friends.
 
